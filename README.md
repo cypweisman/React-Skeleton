@@ -12,4 +12,4 @@ Instructions for running
 
     npm start
 
-3. In your browser, go to localhost:8000/#/all
+3. In your browser, go to localhost:8000
